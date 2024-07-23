@@ -20,7 +20,7 @@
             android:layout_height="20dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="24dp"
-            android:text="572024"
+            android:text="@string/_572024"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -30,7 +30,7 @@
             android:layout_height="18dp"
             android:layout_marginTop="24dp"
             android:layout_marginEnd="16dp"
-            android:text="20"
+            android:text="@string/_20"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -39,7 +39,7 @@
             android:layout_width="143dp"
             android:layout_height="25dp"
             android:layout_marginTop="44dp"
-            android:text="Arise and Shine"
+            android:text="@string/arise_and_shine"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -51,7 +51,7 @@
             android:layout_height="56dp"
             android:layout_marginTop="36dp"
             android:layout_marginBottom="10dp"
-            android:text="it is a book Ito make you shine "
+            android:text="@string/it_is_a_book_ito_make_you_shine"
             android:textSize="20sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
